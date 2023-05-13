@@ -50,4 +50,12 @@ img{
 
 ul{
   list-style-type: none;
+  line-height: 2;
+}
+
+a{
+  text-decoration: none;
+  color: #9ff;
+  font-weight: 700;
+  
 }
