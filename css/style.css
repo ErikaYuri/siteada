@@ -58,3 +58,9 @@ a {
   color: #9ff;
   font-weight: 700;
 }
+
+.principal ul li a{
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
