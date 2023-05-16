@@ -43,6 +43,10 @@ section {
   margin: 0 auto;
 }
 
+section section{
+  width: 100%;
+}
+
 img {
   width: 100%;
 }
